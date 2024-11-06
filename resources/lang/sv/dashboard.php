@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'pills'          => [
+        'active'        => 'AKTIVA',
+        'alert'         => 'VIDTA ÅTGÄRDER',
+        'archived'      => 'ARKIVERADE',
+        'total_costs'   => 'Fasta kostnader',
+        'overdue'       => 'FÖRSENADE ',
+    ],
+     'expires_table' => [
+        'folder'            => 'Kategori',
+        'type'              => 'Avtalstyp',
+        'counterparty'      => 'Motpart',
+        'contract'          => 'Avtal',
+        'notice_period'     => 'Uppsägningstid',
+        'amount'            => 'Belopp',
+        'contract_manager'  => 'Avtalsansvarig',
+        'Notice Period Expiring in Next 30 Days' => 'Uppsägningstiden löper ut inom 30 dagar',
+    ],
+    'view_all'      => 'Se',
+    'total_contracts_title' => 'Totalt :contracts Avtal i :folders mappar',
+    'notification_alert' => 'Uppsägningstiden löper ut',
+    'title_date'        => 'titel_datum',
+    'title_contract'    => 'title_contract',
+    'days'              => 'dagar',
+    'no_results'        => 'inga_resultat',
+    'button_costs'      => 'Kostnader',
+    'button_income'     => 'Intäkter',
+    'costs_income_overview' => 'Dina kostnader och intäkter',
+    'Edit Folders' => 'Redigera',
+    'Total'=>'Totalt',
+    'Monthly'=>'Månadsvis',
+    'Quarterly'=>'Kvartalsvis',
+    'Yearly'=>'Årsvis',
+    // 'One Time'=>'Engångsbetalning',
+];
